@@ -1,6 +1,6 @@
 # Cancer-Prediction
-A machine learning model for predicting breast cancer.
-
+Support Vector Machine and Random Forest Classifier are two ML models used for predicting breast cancer type.
+The 2 types of breast cancer for which prediction is done are : Benign & Malignant.
 
 # Dataset
 Breast Cancer Wisconsin (Original) Data Set collected from UCI ML Repositary:-
